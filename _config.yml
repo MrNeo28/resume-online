@@ -23,7 +23,7 @@ resume_contact_address:         "Muumbai, Maharshatra India"
 resume_header_contact_info:     "Mumbai, Maharshtra India • +91 8451091583 • av.ashish50@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p> Bachelor in Electronics Engineering, Mumbai University. Passionate & Hardworking engineer thriving ability to apply techniques & algorithms to solve real-world problems. Working as Assistant System Engineer in Tata Consultancy Services, Looking for opportunity in Data science and inserted in Computer vision & Automation. </p>"
+resume_header_intro: "<p> Bachelor in Electronics Engineering, Mumbai University. Passionate & Hardworking engineer thriving ability to apply techniques & algorithms to solve real-world problems. Working as Assistant System Engineer in Tata Consultancy Services, Looking for opportunity in Data science and interested in Computer vision & Automation. </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,7 +40,7 @@ resume_section_skills:          true
 # resume_section_recognition:     true
 # resume_section_links:           true
 # resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -52,7 +52,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/ashish-vishwakarma-8b0684188/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://www.kaggle.com/mlneo07"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
