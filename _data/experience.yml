@@ -3,5 +3,13 @@
 - company: Tata Consultancy Services, Mumbai.
   position: QA Automation Engineer
   duration: April, 2021 &mdash; Present
-  summary: QA Automation Engineer, Worked on Manual and Automation for Web-based &mdash; mobile applications using Python, Selenium, Appium, BrowserStack. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: QA Automation Engineer, Worked on Manual and Automation for Websites &mdash; mobile (Web &mdash; Native) applications [Health care domain] using Python, Selenium, Appium, BrowserStack. 
+              <dl class="exp-item-list">
+                <dt><b>QA Automation Mobile Apps & Website testing </b></dt>
+                  <dd><li>Mobile apps [iOS &mdash; Android]automation testing using Python, Appium, Selenium WebDriver, Pytest, Pytest-BDD, Pandas, Open-cv </li></dd>
+                  <dd><li>Automated more than 50 apps in Helath Care domain both public and private</li></dd>
+                  <dd><li>Worked in Behavior Driven Development (BDD) by writing Gherkin language using cucumber tools, developed Scenarios, features, Step definitions in Page Object Model(POM)</li></dd>
+                  <dd><li>Configured Selenium, Appium, Pytest and created automation scripts in Python</li></dd>
+                  <dd><li>Documented using Jira with TestRail integration></li></dd>
+              </dl>
   

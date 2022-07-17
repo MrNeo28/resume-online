@@ -1,7 +1,8 @@
 # Skills
 # Technical Skills
 - skill: Technical Skills
-  description: Python <ul class="skills-item-list"><li>Pytest, Selenium, Appium</li><li>Numpy, Pandas, Matplotlib, Open-cv, PIL-image</li><li>Tensorflow, Keras, Pytorch, Pytorch Lightning, FastApi</li><li>Java</li><li>Selenium</li></ul>
+  description: <dl class="skill-item-list"><dt>Python</dt><dd>Pytest, Selenium, Appium, Pytest-bdd</dd><dd>Numpy, Pandas, Matplotlib, Open-cv, PIL-image</dd><dd>Tensorflow, Keras, Pytorch, Pytorch Lightning, FastApi</dd><dt>Java</dt><dd>Selenium, Appium, WebdriverManager, Gherkins</dd></dl><dt>Tracking Tools</dt>
+      <dd> Jira, Allure reports, TestRail</dd>
 
 
 # Communications strategy
@@ -9,5 +10,5 @@
   description: <ul class="course-item-list"><li>Coursera :- Neural Networks and Deep Learning (TRYG2KR4L7MX)</li><li> Linkedin learning :- SQL Essential Training </li>
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Workshop and Traning
+  description: Larsen & Toubor Corporate:- Technology & Engineering Academy Training on Power Electronics and PLC (3 Days)

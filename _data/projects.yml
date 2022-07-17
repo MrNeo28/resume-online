@@ -1,16 +1,19 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Build an Audio Classifier for birds species identification
+  role: Primary Developer
+  duration: 2019 &mdash; Present
+  # url: "# TO BE UPADTED"
+  description: Build an audio classfier using Pytorch. Dealt and applied analysis on Audio Data using Python packages librosa, PyDub. Audio signal varies in frequencies at different sampling rate and their features was extracted using Mel-Spectogram.
+               <ul class="project-list-items">
+                <li>Scraped audio data from kaggle api and xeno-canto.org. Performed EDA on Data and Converted raw audio data into .png & .npy files</li>
+                <li>Build an Sound Event Detection model using Pytorch and Pytorch Lightning</li>
+               </ul>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+# # Springfield Community Outreach Group
+# - project: Springfield Community Outreach Group
+#   role: Co-Founder & Organizer
+#   duration: 2007 &mdash; Present
+#   # url: "#"
+#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
