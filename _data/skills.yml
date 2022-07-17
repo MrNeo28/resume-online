@@ -1,12 +1,12 @@
 # Skills
 # Technical Skills
 - skill: Technical Skills
-  description: Python <ul class="resume-item-list"><li>Pytest, Selenium, Appium</li><li>Numpy, Pandas, Matplotlib, Open-cv, PIL-image</li><li>Tensorflow, Keras, Pytorch, Pytorch Lightning, FastApi</li></ul>
+  description: Python <ul class="skills-item-list"><li>Pytest, Selenium, Appium</li><li>Numpy, Pandas, Matplotlib, Open-cv, PIL-image</li><li>Tensorflow, Keras, Pytorch, Pytorch Lightning, FastApi</li><li>Java</li><li>Selenium</li></ul>
 
 
 # Communications strategy
 - skill: Courses
-  description: <ul class="resume-item-list"><li>Coursera :- Neural Networks and Deep Learning (TRYG2KR4L7MX)</li><li> Linkedin learning :- SQL Essential Training </li>
+  description: <ul class="course-item-list"><li>Coursera :- Neural Networks and Deep Learning (TRYG2KR4L7MX)</li><li> Linkedin learning :- SQL Essential Training </li>
 
 # Digital content development and creation
 - skill: Digital content development and creation
