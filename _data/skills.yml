@@ -1,7 +1,7 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Technical Skills
+- skill: Technical Skills
+  description: Python {Pytest, Selenium, Appium, Numpy, Pandas, Matplotlib, Open-cv, PIL-image, Tensorflow, Keras, Pytorch, Pytorch Lightning, FastApi}
 
 # Communications strategy
 - skill: Communications strategy
