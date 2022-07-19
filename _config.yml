@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ashish Vishwakarma"
-resume_title:                   "QA Automation Engineer"
+resume_title:                   "Python Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "av.ashish50@gmail.com"
@@ -21,7 +21,7 @@ resume_contact_telephone:       "+91 8451091583"
 resume_contact_address:         "Muumbai, Maharshatra India"
 
 resume_header_contact_info:     "Mumbai, Maharshtra India • +91 8451091583 • av.ashish50@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p> Bachelor in Electronics Engineering, Mumbai University. Passionate & Hardworking engineer thriving ability to apply techniques & algorithms to solve real-world problems. Working as Assistant System Engineer in Tata Consultancy Services, Looking for opportunity in Data science and interested in Computer vision & Automation. </p>"
 
