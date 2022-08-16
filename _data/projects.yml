@@ -2,6 +2,7 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: Build an Audio Classifier for birds species identification
+  libraries and tools: Pytorch, Pytorch Lightning, Jupyter, Librosa, Pydub, Numpy, Pandas
   role: Primary Developer
   duration: 2019 &mdash; Present
   # url: "# TO BE UPADTED"
@@ -10,6 +11,21 @@
                 <li>Scraped audio data from kaggle api and xeno-canto.org. Performed EDA on Data and Converted raw audio data into .png & .npy files</li>
                 <li>Build an Sound Event Detection model using Pytorch and Pytorch Lightning</li>
                </ul>
+
+- project: Web Scraping, Python script for fetching news headlines and articles
+  libraries and tools: Requests, BeatifulSoup, Selenium, Pandas
+  duration: Feb 2022 &mdash; Present
+  # url: https://github.com/MrNeo28/TOI_Web_scrap
+  description: A web-scraping python script to fetch and save news headlines and articles using BeatuifulSoup, requests and pandas. Scraped news articles from TOI archive links. Saved those archive links in pandas-csv file.
+
+
+- project: News Summarization and deployed model using FastApi
+  libraries and tools: Pytorch, Hugging Face, FastApi, Pandas
+  role: Primary Developer
+  duration: Feb 2022
+  # url: " TO BE UPDATED"
+  description: A well-summarized news are crucial in delivering the main point of the news article to its potential readers so build and deployed an pre-trained model using Pytorch and hugging face, Fine-tuned pre-trained model using Pytorch and hugging face on custom dataset. Save the trained model in ONNX runtime for inference,Used FastApi with saved ONNX model for API inference
+
 
 # # Springfield Community Outreach Group
 # - project: Springfield Community Outreach Group
